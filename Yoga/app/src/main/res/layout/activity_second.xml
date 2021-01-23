@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Tree_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:onClick="ImageButtonClicked"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/tree_9463"
+                android:text="Tree Pose (Vrikshasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/triangle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/triangle_9436"
+                android:text="Triangle Pose (Trikonasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal"
+
+            <Button
+                android:id="@+id/bridge_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:onClick="ImageButtonClicked"
+                android:drawableRight="@drawable/Bridge_9810"
+                android:text="Bridge Pose (Setu Bandha Sarvangasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/child_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/Child_9666"
+                android:onClick="ImageButtonClicked"
+                android:text="Child Pose(Balasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/downdog_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/DownDog_9652"
+                android:onClick="ImageButtonClicked"
+                android:text=" Downdog Pose (Adho Mukha Svanasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/plank_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/Plank_9660"
+                android:onClick="ImageButtonClicked"
+                android:text="Plank Pose (Kumbhakasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/deadbody_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/Shavasana_9879"
+                android:onClick="ImageButtonClicked"
+                android:text="Dead Body Pose (Shavasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/boat_pose"
+                android:layout_width="match_parent"
+                android:layout_height="107dp"
+                android:layout_margin="10sp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/boat_pose1"
+                android:onClick="ImageButtonClicked"
+                android:text="Boat Pose (Navasana)"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/highlung_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableRight="@drawable/high_lung"
+                android:onClick="ImageButtonClicked"
+                android:text="High Lung Pose (Utthita Ashwa Sanchalanasana)"
+                android:layout_margin="10sp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <Button
+                android:id="@+id/fish_pose"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:drawableLeft="@drawable/Matsyasana9661"
+                android:onClick="ImageButtonClicked"
+                android:text="Fish Pose (Matsyasana)"
+                android:layout_margin="10sp"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:layout_marginBottom="10dp"
+                android:textStyle="normal" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

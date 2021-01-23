@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Yoga</string>
+
+    <string name="Tree_pose">  Step1: Stand erect. Keep the feet together.\n\n
+                              Step2: Fold the right leg and placed it at the top of the left
+                                    thighs with the toes of the right leg should point downwards.\n\n
+                              Step3: The right leg should perpendicular to the left leg.\n\n
+                              Step4: Extend your arms above your head.\n\n
+                              Step5: Inhale and try to make Namaskar mudra with your
+                                    palms.\n\n
+                              Step6: Balance the pose as long as you can because balancing
+                                    is of utmost importance in the Tree pose.\n\n
+                              Step7: Try to make your spine straight and feel the stretching
+                                    from toes to fingers with a deep exhale bring your arms\n
+                                    and leg down.\n\n
+                              Step8: Repeat the same with the left leg. It completes one round.</string>
+     <string name="Triangle_Pose">Step1: Move the legs 3-4 feet distance apart. Raise both the arms straight out to the sides, in line with the shoulders and\n
+                                                         parallel to the floor with the palms facing downward\n\n
+                                  Step2:  Move the right foot to the outside direction. Turn the left foot slightly to the inward direction.\n\n
+                                  Step 3: Slowly begin to bend the trunk towards the right side. Make sure the body doesn’t go in the forward direction.\n\n
+                                  Step4:  Once the trunk is completely bent the hand must be close to the right ankle with the fingers slightly touching the floor.\n\n
+                                  Step5:  Ideally the right palm rest on the floor. Avoid forcing this position as with regular practice it comes easily on the floor.\n\n
+                                  Step6:  Stretch the left arm vertically. Move the head in the upward direction and look straight.\n\n
+                                  Step7:  Hold the position for a minute. Gradually increasing the time as you begin to feel more comfortable.\n\n
+                                                            </string>
+
+
+       <string name="Bridge_Pose">          Step1: Lie down as Shavasana with 10 inches gap between your legs.\n
+                                                   Arms should be on the sides of your thighs.\n\n
+                                            Step2: Fold your knees.Clasp your ankle with your palms or bring your palms towards your ankle.\n\n
+                                            Step3: Inhale; raise your back as possible as you can maintain the pose as long as you can. exhale, bring your back down.\n\n
+                                            Step4: You can also be on your toes by raising the heels. It is more beneficial for the problems of your back and neck.\n\n
+                                            Step5: Do it 4-5 times.</string>
+
+        <string name="Child_Pose">          Step1: Come on your knees and join the big toes together.\n\n
+                                            Step2:Now, sit on the heels of your feet and make yourself comfortable. Then  spread the knees shoulder-width apart (about 6-12 inches).\n\n
+                                            Step3:With an exhalation, bend forward, stretch your back and place your forehead on the floor. Make sure your torso is laid between your thighs.\n\n
+                                            Step4:Now, bring the arms alongside your body and relax them, palms facing upwards. Here your palms will be next to your feet.\n\n
+                                            Step5:Then, close your eyes and take some deep breaths for the flow of Prana. Bring your awareness to your Chitta and relax.\n\n
+                                                 </string>
+
+         <string name="DownDog_Pose">
+                                            Step:1 To make a dog pose, stand on your both hands, knees, and feet to form a table-like structure. Keep some distance between your hands and feet.\n\n
+                                            Step:2 Now while exhaling lift your hips upward to make a ‘V’ shape. Keep your elbows and knees straight.\n\n
+                                            Step:3 Move your body backward to touch your heels to the ground.\n\n
+                                            Step:4 Your ears should touch your inner arms and you should look towards the navel.\n\n
+                                            Step:5 Hold this position for few seconds means 4-5 deep breathing.\n\n
+                                            Step:6 Now while exhaling come to the starting pose.\n\n
+                                            Step:7 Repeat this cycle for 5-6 times.\n\n
+                                               </string>
+
+           <string name="Plank_Pose">
+
+                                           Step:1 Start in Adho Mukha Svanasana. Then inhale and draw your torso forward until the arms are perpendicular to the floor and the shoulders directly over the wrists, torso parallel to the floor.\n\n
+                                           Step:2 Press your outer arms inward and firm the bases of your index fingers into the floor. Firm your shoulder blades against your back, then spread them away from the spine. Also spread your collarbones away from the sternum.\n\n
+                                           Step 3:Press your front thighs up toward the ceiling, but resist your tailbone toward the floor as you lengthen it toward the heels. Lift the base of the skull away from the back of the neck and look straight down at the floor, keeping the throat and eyes soft.\n\n
+                                           Step 4:Plank Pose is one of the positions in the traditional Sun Salutation sequence. You can also perform this pose by itself and stay anywhere from 30 seconds to 1 minute.
+                                                                   </string>
+            <string name="DeadBody_Pose">
+                                             Step1:Be positioned flat on your backside, like our sleeping pose. Legs are supposed to be separated.\n\n
+                                             Step2:Maintain your arms at your side and your palms facing up. Now slow down.\n\n
+                                             Step3:lose your eyes moreover breathe deeply and bit by bit through the nostrils.\n\n
+                                             Step4:Start concentrating from your head to your feet. This way you are deliberately calming your each portion of the body. Avoid moving ahead devoid of relaxing each part of the body.\n\n
+                                             Step5:On every inhaling plus exhaling (breathing) feel that your body is entirely relaxed. Allow your tension, depression, worry and stress run away on every exhale.\n\n
+                                             Step6:Those having excellent concentration can perform for a long time and others can perform for 3-5 minutes.\n\n
+                                             Step7:Relax the muscles which lead to a decrease in the demand for blood and oxygen, giving the circulatory and respiratory systems a break.\n\n
+                                                                      </string>
+
+             <string name="Boat_Pose">
+
+                                             Step1:First lie down flat on your yoga mat, with your feet together and your arms on the sides.\n\n
+                                             Step2:Keep your arms straight and your fingers outstretched towards your toes.\n\n
+                                             Step3:Start Inhaling and as you exhale, lift your chest and feet off the ground, stretching your arms towards your feet.\n\n
+                                             Step4:Let the weight of your body rest entirely on the buttocks. Make sure your eyes, finger and toes are all in one line.\n\n
+                                             Step5:Now exhale slowly as you bring the body down to the starting position and relax. You can perform 3-4 repetitions daily but do not overdo it.
+                                                                                   </string>
+
+              <string name="HighLunge_Pose">
+
+                                          Step1:Come into a downward-facing dog pose.\n\n
+                                          Step2:Exhale stepping your right foot forward bring it in between your hands.\n\n
+                                          Step3:Keeping the left leg firm, inhale raising your torso upright, along with lifting and opening the arms wide to the sides.\n\n
+                                          Step4:Extend them overhead with the palms facing each other.\n\n
+                                          Step5:Try to push the tailbone towards the floor to reach back through the left heel.\n\n
+                                          Step6:Look up and maintain your gaze to your thumbs.\n\n
+                                          Step7:Feel the stretch in your lower back ribs while holding the pose with lifted arms.\n\n
+                                          Step8:Hold the pose for 30 seconds.
+                                                                                    </string>
+
+               <string name="Fish_Pose">
+                                           Step1: Gently recline backwards, supporting the body with arms and elbows, to lie flat on the back.\n\n
+                                           Step2: Now, draw the hands from the sides under the head, bending the hands at the elbow.\n\n
+                                           Step3: Clasp the opposite elbows and let the hands rest on the mat, under the head. Eyes can be kept open or closed, as per individual comfort.\n\n
+                                           Step4:Maintain this position, breathing rhythmically for 1-2 minutes (final position).\n\n
+                                           Step5:Posture release: slowly unclasp the hands and bring them back to the sides. Gently come back to the starting position, taking support of the hands.\n\n
+                                          Matsyasana Recommended Practice Practice for 1-2 minutes/session.\n\n
+                                          Beginners can attain the final position by first lying supine and then folding the legs as in Sukhasana, Ardhpadmasana or Padmasana.\n\n
+                                                                                                </string>
+                </resources>
